@@ -56,4 +56,6 @@ public class UsersAdaptor extends RecyclerView.Adapter<UsersAdaptor.ViewHolder> 
             tv_username = itemView.findViewById(R.id.tv_username);
         }
     }
+
+    //sampleeee
 }
